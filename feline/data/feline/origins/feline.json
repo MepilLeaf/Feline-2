@@ -1,0 +1,18 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "origins:sprint_jump",
+        "origins:nine_lives",
+        "origins:weak_arms",
+        "origins:scare_creepers",
+        "origins:cat_vision",
+        "origins:carnivore",
+        "feline:smol",
+        "feline:meow"
+    ],
+    "icon": "minecraft:pink_wool",
+    "order": 1,
+    "impact": 2,
+    "name": "Feline uwu",
+    "description": "[Feline Description]"
+}
