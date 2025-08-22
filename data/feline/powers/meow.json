@@ -1,23 +1,18 @@
 {
-    "name": "Meow",
-    "description": "You are able to vocalize like a cat.",
-    "type": "origins:active_self",
-    "entity_action": {
-        "type": "origins:and",
-        "actions": [
-            {
-                "type": "origins:play_sound",
-                "sound": "minecraft:entity.cat.ambient"
-            },
-            {
-                "type": "origins:execute_command",
-                "command": "execute at @e[type=cat,distance=..16] run particle minecraft:heart ~ ~1 ~ 0.2 0.3 0.2 1 3",
-                "permission_level": 4
-            }
-        ]
-    },
-    "cooldown": 0,
-    "hud_render": {
-        "should_render": false
-    }
+  "name": "Meow",
+  "description": "You are able to vocalize like a cat.",
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:play_sound",
+        "sound": "minecraft:entity.generic.explode"
+      }
+    ]
+  },
+  "cooldown": 0,
+  "hud_render": {
+    "should_render": false
+  }
 }
