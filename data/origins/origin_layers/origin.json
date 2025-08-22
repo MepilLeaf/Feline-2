@@ -1,6 +1,4 @@
 {
-    "replace": false,
-    "origins": [
-        "feline:feline"
-    ]
+  "replace": false,
+  "origins": ["feline:feline"]
 }
