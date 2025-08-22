@@ -1,0 +1,10 @@
+playsound minecraft:entity.firework_rocket.large_blast_far ambient @a ~ ~ ~ 6.25 0.1 1
+playsound minecraft:entity.firework_rocket.large_blast_far ambient @a ~ ~ ~ 6.25 0.2 1
+playsound minecraft:entity.firework_rocket.large_blast_far ambient @a ~ ~ ~ 6.25 0.3 1
+playsound minecraft:entity.firework_rocket.large_blast_far ambient @a ~ ~ ~ 6.25 0.4 1
+playsound minecraft:entity.firework_rocket.large_blast_far ambient @a ~ ~ ~ 6.25 0.5 1
+playsound minecraft:entity.firework_rocket.large_blast_far ambient @a ~ ~ ~ 6.25 0.6 1
+playsound minecraft:entity.firework_rocket.large_blast_far ambient @a ~ ~ ~ 6.25 0.7 1
+playsound minecraft:entity.firework_rocket.large_blast_far ambient @a ~ ~ ~ 6.25 0.8 1
+playsound minecraft:entity.firework_rocket.large_blast_far ambient @a ~ ~ ~ 6.25 0.9 1
+playsound minecraft:entity.firework_rocket.large_blast_far ambient @a ~ ~ ~ 6.25 1.0 1

@@ -7,7 +7,17 @@
     "actions": [
       {
         "type": "origins:play_sound",
-        "sound": "minecraft:entity.generic.explode"
+        "sound": "minecraft:entity.cat.ambient"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "execute at @e[type=cat,distance=..100] run function feline:explosion_sound",
+        "permission_level": 4
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "execute at @e[type=cat,distance=..100] run function feline:explosion",
+        "permission_level": 4
       }
     ]
   },
